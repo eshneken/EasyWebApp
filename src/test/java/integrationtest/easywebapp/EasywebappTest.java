@@ -1,5 +1,4 @@
 // https://community.oracle.com/community/cloud_computing/platform-as-a-service-paas/oracle-developer-cloud-service/blog/2015/12/23/configuring-a-selenium-test-in-developer-cloud-service-devcs
-// 	
 
 package integrationtest.easywebapp;
 
